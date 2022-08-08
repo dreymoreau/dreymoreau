@@ -1,6 +1,6 @@
 - ⭐️ hello! i’m drey :]
 - 🧠 i am interested in ... programming, art, healing, expansion and presence
-- 🌱 i am currently learning ... front end development #100Devs
+- 🌱 i am currently learning ... full stack dev #100Devs
 
 <!---
 dreymotoh/dreymotoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
