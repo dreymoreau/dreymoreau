@@ -1,5 +1,5 @@
 - ⭐️ hello! i’m drey :]
-- 🧠 i am interested in ... programming, art, healing, expansion and presence
+- 🧠 i am interested in ... programming, art, mental health, healing and expansion
 - 🌱 i am currently learning ... full stack dev #100Devs
 
 <!---
