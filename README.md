@@ -1,6 +1,6 @@
 - ⭐️ hello! i’m drey :]
-- 🧠 i am interested in ... programming, art, mental health, healing and expansion
-- 🌱 i am currently learning ... fullstack dev with 100Devs
+- 🧠 i am interested in programming, art, mental health, nature and introspection
+- 🌱 i am currently learning the MERN stack with 100Devs
 
 <!---
 dreymotoh/dreymotoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
