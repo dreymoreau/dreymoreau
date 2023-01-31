@@ -1,5 +1,5 @@
 - ⭐️ hello! i’m drey :]
-- 🧠 i am interested in programming, art, mental health, nature and introspection
+- 🧠 i am interested in programming, art, mental health, nature, introspection and climate tech
 - 🌱 i am currently learning full stack with 100Devs
 
 <!---
